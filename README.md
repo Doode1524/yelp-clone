@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 # yelp-clone
+
+// ADDED FOG GEM AND CARRIERWAVE INITIALZER FILE
+    TODO: CREATE AWS ACCOUNT FOR HOSTING IMAGES.
