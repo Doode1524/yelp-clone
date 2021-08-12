@@ -7,6 +7,7 @@ ruby '2.6.1'
 gem 'carrierwave'
 gem "fog-aws"
 gem 'mini_magick'
+gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.4'
 # Use sqlite3 as the database for Active Record
